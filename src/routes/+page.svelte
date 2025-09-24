@@ -23,7 +23,7 @@
   }
 
   
-  const url="https://sheltered-savannah-59783-268bc7c9a37b.herokuapp.com/"
+  const url="https://sheltered-savannah-59783-268bc7c9a37b.herokuapp.com"
 
   console.log(data);
 </script>
